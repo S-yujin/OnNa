@@ -1,0 +1,10 @@
+# Frontend environment
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Common
+.idea/
+.vscode/
+*.log
+.DS_Store
